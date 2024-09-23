@@ -4,5 +4,5 @@
 - make responsible emails for most commonly used email-clients
 
 ## This project is using:
-- html: for creating html-email layout 
+- html: for creating html-email layout 💡
 - css: for stylization html-email 💡

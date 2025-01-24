@@ -8,6 +8,8 @@
 - css: for stylization html-email 💡
 
 ## Links:
+- https://emails-fawn.vercel.app/
 - https://emails-fawn.vercel.app/bin.html
 - https://emails-fawn.vercel.app/binDone.html
 - https://emails-fawn.vercel.app/changePass.html
+- https://emails-fawn.vercel.app/congrats.html

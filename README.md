@@ -6,3 +6,8 @@
 ## This project is using:
 - html: for creating html-email layout 💡
 - css: for stylization html-email 💡
+
+## Links:
+- https://emails-fawn.vercel.app/bin.html
+- https://emails-fawn.vercel.app/binDone.html
+- https://emails-fawn.vercel.app/changePass.html

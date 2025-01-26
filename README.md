@@ -1,4 +1,4 @@
-# This is Email
+# Email
 
 ## This project was made to: 💻
 - make responsible emails for most commonly used email-clients
